@@ -56,6 +56,7 @@ This project implements an MCP-compatible server using FastAPI, allowing LLMs to
 
 ## 📁 Project Structure
 
+```
 pokemon-battle-simulator/
 │
 ├── app/                       # FastAPI Backend
@@ -68,6 +69,7 @@ pokemon-battle-simulator/
 │
 ├── requirements.txt          # Python dependencies
 └── README.md
+```
 ---
 
 ## ⚙️ Installation & Setup
